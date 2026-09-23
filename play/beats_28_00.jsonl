@@ -94,3 +94,6 @@
 {"n":94,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at the pier. Nobody past the east gutter. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":95,"kind":"place","name":"the pier east gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier east gutter. Bess keeps the radio coil for the wipe. 8 steps, direct on the left lane, open."}
 {"n":96,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east gutter. direct left open. 2 steps. The radio coil stays for the wipe."}
+{"n":97,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Clinic roof. Nobody past the east gutter. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":98,"kind":"place","name":"Clinic roof east gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof east gutter. Matt keeps the radio coil for the wipe. 4 steps, direct on the left lane, open."}
+{"n":99,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east gutter. direct left open. 5 steps. The radio coil stays for the wipe."}
