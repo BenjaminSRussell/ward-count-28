@@ -109,3 +109,6 @@
 {"n":109,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Switchyard. Nobody past the east gutter. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":110,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard east gutter. Matt keeps the radio coil for the wipe. 2 steps, direct on the left lane, open."}
 {"n":111,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east gutter. direct left open. 3 steps. The radio coil stays for the wipe."}
+{"n":112,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Switchyard. Nobody past the east gutter. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":113,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard east gutter. Nia keeps the radio coil for the wipe. 5 steps, direct on the left lane, open."}
+{"n":114,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east gutter. direct left open. 6 steps. The radio coil stays for the wipe."}
