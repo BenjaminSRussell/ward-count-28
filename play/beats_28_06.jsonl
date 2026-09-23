@@ -736,3 +736,6 @@
 {"n":736,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Stockyard fence. Nobody past the east stair. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":737,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence east stair. Nia keeps the crate for the wipe. 7 steps, direct on the left lane, open."}
 {"n":738,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east stair. direct left open. 8 steps. The crate stays for the wipe."}
+{"n":739,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at Stockyard fence. Nobody past the east stair. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":740,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence east stair. Ivo keeps the crate for the wipe. 3 steps, direct on the left lane, open."}
+{"n":741,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east stair. direct left open. 4 steps. The crate stays for the wipe."}
