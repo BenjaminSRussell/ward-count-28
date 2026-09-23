@@ -403,3 +403,6 @@
 {"n":403,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at Stockyard fence. Nobody past the east stair. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":404,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence east stair. Ivo keeps the hydrant for the wipe. 3 steps, direct on the left lane, open."}
 {"n":405,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east stair. direct left open. 4 steps. The hydrant stays for the wipe."}
+{"n":406,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Stockyard fence. Nobody past the east stair. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":407,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence east stair. Bess keeps the hydrant for the wipe. 6 steps, direct on the left lane, open."}
+{"n":408,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east stair. direct left open. 7 steps. The hydrant stays for the wipe."}
