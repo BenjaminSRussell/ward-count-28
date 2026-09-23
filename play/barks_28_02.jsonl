@@ -906,3 +906,6 @@
 {"n":906,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard south gutter. Matt keeps the lamp for the wipe. 5 steps, direct on the left lane, open."}
 {"n":907,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south gutter. direct left open. 6 steps. The lamp stays for the wipe."}
 {"n":908,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Mast yard. Nobody past the south gutter. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":909,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south gutter. Nia keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
+{"n":910,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south gutter. direct left open. 2 steps. The lamp stays for the wipe."}
+{"n":911,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at Mast yard. Nobody past the south gutter. We wipe in 3 steps. Direct on the left lane, open."}
