@@ -881,3 +881,6 @@
 {"n":881,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west stair. direct left open. 6 steps. The lamp stays for the wipe."}
 {"n":882,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at the Lot. Nobody past the west stair. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":883,"kind":"place","name":"the Lot west stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west stair. Bess keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
+{"n":884,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west stair. direct left open. 2 steps. The lamp stays for the wipe."}
+{"n":885,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the west stair. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":886,"kind":"place","name":"Stockyard fence west stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence west stair. Matt keeps the lamp for the wipe. 4 steps, direct on the left lane, open."}
