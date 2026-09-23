@@ -1,0 +1,3 @@
+{"n":1,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at the Lot. Nobody past the east gutter. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":2,"kind":"place","name":"the Lot east gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot east gutter. Matt keeps the radio coil for the wipe. 6 steps, direct on the left lane, open."}
+{"n":3,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east gutter. direct left open. 7 steps. The radio coil stays for the wipe."}
