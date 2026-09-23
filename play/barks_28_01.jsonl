@@ -196,3 +196,6 @@
 {"n":196,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence north gutter. Ivo keeps the rope for the wipe. 3 steps, direct on the left lane, open."}
 {"n":197,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north gutter. direct left open. 4 steps. The rope stays for the wipe."}
 {"n":198,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at Stockyard fence. Nobody past the north gutter. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":199,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence north gutter. Bess keeps the rope for the wipe. 6 steps, direct on the left lane, open."}
+{"n":200,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north gutter. direct left open. 7 steps. The rope stays for the wipe."}
+{"n":201,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Mall court. Nobody past the north gutter. We wipe in 8 steps. Direct on the left lane, open."}
