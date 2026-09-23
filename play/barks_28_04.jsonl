@@ -373,3 +373,6 @@
 {"n":373,"kind":"place","name":"the Lot west stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot west stair. Nia keeps the hydrant for the wipe. 2 steps, direct on the left lane, open."}
 {"n":374,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west stair. direct left open. 3 steps. The hydrant stays for the wipe."}
 {"n":375,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at the Lot. Nobody past the west stair. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":376,"kind":"place","name":"the Lot west stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot west stair. Ivo keeps the hydrant for the wipe. 5 steps, direct on the left lane, open."}
+{"n":377,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west stair. direct left open. 6 steps. The hydrant stays for the wipe."}
+{"n":378,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at the Lot. Nobody past the west stair. We wipe in 7 steps. Direct on the left lane, open."}
